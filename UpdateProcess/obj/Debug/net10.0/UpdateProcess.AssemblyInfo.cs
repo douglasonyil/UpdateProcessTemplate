@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UpdateProcess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb6a0abd3c836ffe08c4a93448988f7cadcd7654")]
 [assembly: System.Reflection.AssemblyProductAttribute("UpdateProcess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UpdateProcess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
